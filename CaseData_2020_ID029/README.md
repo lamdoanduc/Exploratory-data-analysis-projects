@@ -10,3 +10,7 @@ The following is tasks for the data team:
 - If the anomalies can be normalized in order to add value to the company.
 - The team might be asked to re-perform this check in the future. Therefore, consider creating a solution that can be reused for similar clients.
 - What opportunities can be identified from the data that can provide value to the client.
+
+## Files
+- Report.ipynb: the casestudy report 
+- Code - 2020_ID029.ipynb: the python code used for EDA and ML models
