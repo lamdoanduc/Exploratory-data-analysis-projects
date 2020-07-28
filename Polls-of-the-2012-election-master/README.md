@@ -8,6 +8,9 @@ The project analyzes a dataset of the the 2012 election from HuffPost Pollster t
     5. How did voter sentiment change over time? \
     6. Can we see an effect in the polls from the debates?
     
+## Code
+ The exploratory data analysis in Phython can be found [here](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Polls-of-the-2012-election-master/Election_code.ipynb)
+    
  # Report
  ## Request data from the web
  
@@ -21,18 +24,18 @@ df
 ```
 ## 1. Who was being polled and what was their party affiliation?
 
-![Image description](https://github.com/lamdoanduc/Polls-of-the-2012-election/blob/master/plots/01_affiliation.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Polls-of-the-2012-election-master/plots/01_affiliation.png)
 
 ## 2. Did the poll results favor Romney or Obama? and 3. How do undecided voters effect the poll?
 
-![Image description](https://github.com/lamdoanduc/Polls-of-the-2012-election/blob/master/plots/01_pool_results.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Polls-of-the-2012-election-master/plots/01_pool_results.png)
 
 ## 5. How did voter sentiment change over time?
 
-![Image description](https://github.com/lamdoanduc/Polls-of-the-2012-election/blob/master/plots/01_sentiment_over_time.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Polls-of-the-2012-election-master/plots/01_sentiment_over_time.png)
 
 ## 6. Can we see an effect in the polls from the debates?
 
-![Image description](https://github.com/lamdoanduc/Polls-of-the-2012-election/blob/master/plots/01_result_after_debates.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Polls-of-the-2012-election-master/plots/01_result_after_debates.png)
 
 
