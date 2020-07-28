@@ -7,6 +7,9 @@ The project analyses the the prices of some bank stocks and and their progresses
 * MS: Morgan Stanley
 * WF: Wells Fargo
 
+## Code
+The code for the exploratory data analysis can be found [here](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Bank-stock-data-of-the-financial-crisis-master/04-Finance_project%20_code.ipynb)
+
 # Project Report
 ## Explore the data
 ### The max Close price for each bank's stock throughout the time period
