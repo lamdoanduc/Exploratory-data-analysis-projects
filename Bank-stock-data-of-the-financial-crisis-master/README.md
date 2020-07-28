@@ -37,14 +37,14 @@ returns.ix['2015-01-01':'2015-12-31'].std()
 
 ## Data Visualization
 ### A line plot showing Close price for each bank for the entire index of time
-![Image description](https://github.com/lamdoanduc/Bank-stock-data-of-the-financial-crisis/blob/master/Plots/Close_price.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Bank-stock-data-of-the-financial-crisis-master/Plots/Close_price.png)
 
 ### Moving Averages
 Analyse the moving averages for these stocks in the period 2007-2009 BAC. 
-![Image description](https://github.com/lamdoanduc/Bank-stock-data-of-the-financial-crisis/blob/master/Plots/moving_average_BAC.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Bank-stock-data-of-the-financial-crisis-master/Plots/moving_average_BAC.png)
 
 ### Clustermap to cluster the correlations between the bank stockes
-![Image description](https://github.com/lamdoanduc/Bank-stock-data-of-the-financial-crisis/blob/master/Plots/clustermap.png)
+![Image description](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/Bank-stock-data-of-the-financial-crisis-master/Plots/clustermap.png)
 
 # Important notes
 * The method DataFrame.xs is very useful to take a key argument to select data at a particular level of a MultiIndex.
