@@ -1,6 +1,10 @@
 # 911-Calls
 The project analyses calls to 911, i.e., what is the most reason of the calls, what high time people call 911, etc. The project also visualises the dataset using Seaborn and Bult-in Pandas tools. The dataset is from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). 
 
+
+## Code
+The code for exploratory data data analysis can be found [here](https://github.com/lamdoanduc/Exploratory-data-analysis-projects/blob/master/911-Calls-master/911_calls_code.ipynb)
+
 # Project report
 
 The data contains the following fields:
